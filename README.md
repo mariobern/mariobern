@@ -1,5 +1,5 @@
-Mario Bernardi
-Pyth CM/BD
+Mario Bernardi <br>
+Pyth CM/BD <br>
 https://www.linkedin.com/in/mariobern/
 
 <!---
